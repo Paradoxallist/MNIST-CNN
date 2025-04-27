@@ -1,4 +1,4 @@
-# 🦰 MNIST Convolutional Neural Network + Digit Drawing App
+# MNIST Convolutional Neural Network + Digit Drawing App
 
 This project implements a Convolutional Neural Network (CNN) for handwritten digit recognition with a simple graphical interface for drawing digits.
 
